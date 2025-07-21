@@ -1,8 +1,15 @@
+イベント駆動マイクロサービスアーキテクチャをJavaからJava Script Expressに変更依頼
+
 # Spring Boot → Express.js 移行手順書
 
 ## 概要
 
 この文書は、KuroBankマイクロサービス（Spring Boot + Java）をExpress.js + Node.jsに移行するための包括的な手順書です。
+
+重要
+・移行元のJavaコードは/home/wsl/dev/my-study/msa/microservices-express/sample/microservices-springboot
+配下に格納済みなので、参照してください
+・Expressの基礎コードも（/home/wsl/dev/my-study/msa/microservices-express/sample/express-like-springboot）作成済みなのでできるだけ参照してください
 
 ## 目次
 
